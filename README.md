@@ -1,4 +1,4 @@
-Guide on how to use these tools!
+Guide on how to use this tool!
 1.Install Python from https://www.python.org/downloads/
 Make sure that when installing it you selleckt bock checkboxes on the first installation screen (Install with PATHS and as admin).
 
